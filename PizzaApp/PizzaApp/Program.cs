@@ -5,8 +5,7 @@
         static void Main(string[] args)
         {
             new Pepperoni();
-            new Cheese();
-            new Bacon();
+            new Class1();
         }
     }
 }

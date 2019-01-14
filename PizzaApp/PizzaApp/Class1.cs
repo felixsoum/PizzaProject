@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PizzaApp
 {
-    class Bacon
+    class Class1
     {
     }
 }
