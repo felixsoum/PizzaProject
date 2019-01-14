@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PizzaApp
+﻿namespace PizzaApp
 {
     class Program
     {
@@ -12,6 +6,7 @@ namespace PizzaApp
         {
             new Pepperoni();
             new Cheese();
+            new Bacon();
         }
     }
 }
