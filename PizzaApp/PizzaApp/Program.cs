@@ -11,8 +11,6 @@ namespace PizzaApp
         static void Main(string[] args)
         {
             new Pepperoni();
-            new Cheese();
-            new TomatoSauce();
         }
     }
 }
